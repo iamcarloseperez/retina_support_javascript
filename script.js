@@ -19,7 +19,6 @@ $(document).ready(function(){
 });
 
 
-
-<img onload="getImgSrc(this,'assets/imgs/awardsfooter_x1.png')" 
-  width="297" height="33" alt="Awards">
+// This is how you will call the image onload 
+<img onload="getImgSrc(this,'assets/imgs/awardsfooter_x1.png')" width="297" height="33" alt="Awards">
   
